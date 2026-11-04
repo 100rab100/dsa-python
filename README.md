@@ -78,6 +78,6 @@ Requires Python 3.8 or higher. No extra libraries are needed.
 
 - Data engineer, working with Python and SQL
 - Also practising SQL daily (see my `sql-practice` repo)
-- Connect with me on LinkedIn: *(add your LinkedIn link)*
+- Connect with me on LinkedIn: *https://www.linkedin.com/in/100abh-patil/*
 
 If you have a better approach for any problem, feel free to open an issue or a pull request.
