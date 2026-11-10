@@ -3,6 +3,7 @@
 # Approach: Loop from 1 to 10 and print n * i
 # Time: O(1) for a fixed table of 10 rows (O(k) for k rows)  Space: O(1)
 
+
 n = int(input("Enter a number: "))
 
 for i in range(1, 11):
