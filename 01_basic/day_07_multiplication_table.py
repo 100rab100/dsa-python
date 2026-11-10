@@ -1,4 +1,4 @@
-# Day 12: Print the multiplication table of n
+# Day 07: Print the multiplication table of n
 # Topic: Basic Programs
 # Approach: Loop from 1 to 10 and print n * i
 # Time: O(1) for a fixed table of 10 rows (O(k) for k rows)  Space: O(1)
