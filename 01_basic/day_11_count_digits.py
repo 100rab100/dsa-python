@@ -3,6 +3,7 @@
 # Approach: while loop, remove the last digit with // 10 and count each step
 # Time: O(d)  Space: O(1)   (d = number of digits)
 
+
 n = int(input("Enter a number: "))
 
 n = abs(n)          # ignore the minus sign
