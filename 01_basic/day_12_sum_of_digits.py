@@ -1,4 +1,4 @@
-# Day 18: Find the sum of digits of a number
+# Day 12: Find the sum of digits of a number
 # Topic: Basic Programs
 # Approach: while loop, take the last digit with % 10, add it, then remove it with // 10
 # Time: O(d)  Space: O(1)   (d = number of digits)
