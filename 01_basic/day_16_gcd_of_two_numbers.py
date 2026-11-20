@@ -1,4 +1,4 @@
-# Day 15: Find the GCD of two numbers
+# Day 16: Find the GCD of two numbers
 # Topic: Basic Programs
 # Approach: Count up from 1 to a and keep the largest common divisor found
 # Time: O(a)  Space: O(1)
